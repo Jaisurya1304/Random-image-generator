@@ -1,5 +1,5 @@
 # Random-image-generator
-An random image generator using Html,css anf JS
+An random image generator using Html,css and JS
 
 #DEMO
 
